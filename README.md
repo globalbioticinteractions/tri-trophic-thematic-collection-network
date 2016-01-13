@@ -1,3 +1,5 @@
+:warning: This archive configuration is no longer used and has been replaced with  https://github.com/globalbioticinteractions/arthropodEasyCaptureAMNH .
+
 # tri-trophic-thematic-collection-network
 This repository is a reference to the Tri-Trophic Thematic Collection Network [1] archive. The purpose is to make the archive available through Global Biotic Interactions (GloBI, http://globalbioticinteractions.org).
 
